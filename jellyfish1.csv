@@ -1,2 +1,0 @@
-﻿output.output.0.date,output.output.0.address,output.output.0.latitude,output.output.0.longitude,output.output.0.jellyfish_type,output.output.0.density,output.output.0.is_toxic,output.output.0.appearance_ratio,output.output.1.date,output.output.1.address,output.output.1.latitude,output.output.1.longitude,output.output.1.jellyfish_type,output.output.1.density,output.output.1.is_toxic,output.output.1.appearance_ratio
-2024-09-05,제주 서귀포시 강정항,36.154123,126.63112,유령해파리,저밀도,TRUE,0.22,2024-09-05,제주 서귀포시 강정항,36.154123,126.63112,노무라입깃해파리,저밀도,TRUE,0.22
